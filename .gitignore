@@ -1,0 +1,9 @@
+# Lektorské materiály — nikdy nepushovat do veřejného repa
+EXERCISES.md
+LEKTOR-*.md
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
+*.swp
